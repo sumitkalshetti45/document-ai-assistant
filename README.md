@@ -5,7 +5,6 @@ An AI-powered document question-answering application built using **Retrieval-Au
 The application allows users to upload documents and ask questions about their content. It retrieves relevant information from uploaded documents and generates contextual answers using an LLM.
 
 ---
-
 ## 🚀 Features
 
 - 📄 Upload PDF and TXT documents
